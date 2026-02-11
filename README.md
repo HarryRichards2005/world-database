@@ -3,7 +3,7 @@
 # [SQL Project] : This was an sql project based on a world database completed in the second week
 
 <p>
-The aim of the project was to conduct research on different countries. Trying to analyse different demographics, populations, population density, and life expectancy. There are three table each containig different datasets. The city table contains ID (The primary key), Name, CountryCode, District, and Population. The country table contains Code (The primary key), Name, Continent, Region, SurfaceArea, IndepYear, Population, LifeExpectancy, GNP, GNPOld, LocalName, GovernmentForm, HeadOfState, and Capital. The countrylanguage table contains CountryCode (The Primary Key), Language, IsOfficial, Percentage. These results were to be used for real estate development, education, global health initiatives.
+The aim of the project was to conduct research on different countries. Trying to analyse different demographics, populations, population density, and life expectancy. There are three table each containing different datasets. The city table contains ID (The primary key), Name, CountryCode, District, and Population. The country table contains Code (The primary key), Name, Continent, Region, SurfaceArea, IndepYear, Population, LifeExpectancy, GNP, GNPOld, LocalName, GovernmentForm, HeadOfState, and Capital. The countrylanguage table contains CountryCode (The Primary Key), Language, IsOfficial, Percentage. These results were to be used for real estate development, education, global health initiatives.
 </p>
 <div>
 <h2>Population Analysis</h2>
