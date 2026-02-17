@@ -28,9 +28,24 @@ The aim of the project was to conduct research on different countries. Trying to
 <p>This image conveys the syntax I used and the results I got from it. I used SELECT Name, COUNT(*) to count all the rows present in the table. I used FROM City to get my results from the city table. I used GROUP BY Name to group rows that have the same value. I used ORDER BY to put the names from the columns in ascending order alphabetically.</p>
 <p>From the results, I can see a list of unique city names</p>
 </div>
+<div>
+<h2>Identifying the capital of Spain from the database</h2>
+<img width="981" height="1059" alt="image" src="https://github.com/user-attachments/assets/73d72f11-dea7-4abd-8649-5621a66b158f" />
+<p>This task required the use of inner join, which selects records that have matching values in multiple tables. Here it takes two related tables, City and country, joins them by matching a city whose ID equals the capital ID in the country table. The Where statement filters the results to only include anything the equals "ESP".</p>
+</div>
 
 <div>
 <h2>What have I learned</h2>
 <p>This project taught me how to apply the basic SQL syntax I had learnt into a project and put it into practice.</p>
+<p>statements such as:</p>
+<ul>
+<li>Select</li>
+<li>From</li>
+<li>Where</li>
+<li>Order By</li>
+<li>Group By</li>
+<li>Limit</li>
+<li>Inner Join</li>
+</ul>
 </div>
 
